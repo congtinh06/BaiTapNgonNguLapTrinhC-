@@ -2,6 +2,10 @@
 
 **Họ tên:** Huỳnh Công Tính  
 **MSSV:** 3124411315
-**Lớp:** DCT124C6
 
-## Lab02
+## Danh sách bài tập
+
+| Lab | Nội dung | Trạng thái |
+|-----|----------|------------|
+| Lab02 |  |  |
+| Lab03 |  |  |
