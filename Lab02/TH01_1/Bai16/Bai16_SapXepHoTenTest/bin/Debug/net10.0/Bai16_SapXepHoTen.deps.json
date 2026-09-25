@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bai16_SapXepHoTen/1.0.0": {
+        "runtime": {
+          "Bai16_SapXepHoTen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai16_SapXepHoTen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

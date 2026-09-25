@@ -1,0 +1,11 @@
+F:\Lab02_HuynhCongTinh_3124411315\TH01_2\MyLib\bin\Debug\net10.0\MyLib.deps.json
+F:\Lab02_HuynhCongTinh_3124411315\TH01_2\MyLib\bin\Debug\net10.0\MyLib.dll
+F:\Lab02_HuynhCongTinh_3124411315\TH01_2\MyLib\bin\Debug\net10.0\MyLib.pdb
+F:\Lab02_HuynhCongTinh_3124411315\TH01_2\MyLib\obj\Debug\net10.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lab02_HuynhCongTinh_3124411315\TH01_2\MyLib\obj\Debug\net10.0\MyLib.AssemblyInfoInputs.cache
+F:\Lab02_HuynhCongTinh_3124411315\TH01_2\MyLib\obj\Debug\net10.0\MyLib.AssemblyInfo.cs
+F:\Lab02_HuynhCongTinh_3124411315\TH01_2\MyLib\obj\Debug\net10.0\MyLib.csproj.CoreCompileInputs.cache
+F:\Lab02_HuynhCongTinh_3124411315\TH01_2\MyLib\obj\Debug\net10.0\MyLib.dll
+F:\Lab02_HuynhCongTinh_3124411315\TH01_2\MyLib\obj\Debug\net10.0\refint\MyLib.dll
+F:\Lab02_HuynhCongTinh_3124411315\TH01_2\MyLib\obj\Debug\net10.0\MyLib.pdb
+F:\Lab02_HuynhCongTinh_3124411315\TH01_2\MyLib\obj\Debug\net10.0\ref\MyLib.dll

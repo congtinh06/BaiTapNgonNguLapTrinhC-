@@ -1,0 +1,10 @@
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai1_net48\bin\Debug\net48\Bai1_net48.exe.config
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai1_net48\bin\Debug\net48\Bai1_net48.exe
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai1_net48\bin\Debug\net48\Bai1_net48.pdb
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai1_net48\obj\Debug\net48\Bai1_net48.csproj.AssemblyReference.cache
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai1_net48\obj\Debug\net48\Bai1_net48.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai1_net48\obj\Debug\net48\Bai1_net48.AssemblyInfoInputs.cache
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai1_net48\obj\Debug\net48\Bai1_net48.AssemblyInfo.cs
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai1_net48\obj\Debug\net48\Bai1_net48.csproj.CoreCompileInputs.cache
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai1_net48\obj\Debug\net48\Bai1_net48.exe
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai1_net48\obj\Debug\net48\Bai1_net48.pdb
