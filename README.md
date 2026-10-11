@@ -2,7 +2,7 @@
 
 **Họ tên:** Huỳnh Công Tính  
 **MSSV:** 3124411315
-
+**Lớp:** DCT124C6
 ## Giới thiệu
 
 Repository lưu trữ các bài thực hành (Lab) của môn **Ngôn ngữ lập trình C#**. Mỗi Lab nằm trong một thư mục riêng, được commit và đẩy lên theo từng bài.
