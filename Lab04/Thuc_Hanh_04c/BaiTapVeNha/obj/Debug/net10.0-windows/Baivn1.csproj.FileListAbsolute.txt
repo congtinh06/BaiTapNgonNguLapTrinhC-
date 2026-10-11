@@ -1,0 +1,15 @@
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\bin\Debug\net10.0-windows\Baivn1.exe
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\bin\Debug\net10.0-windows\Baivn1.deps.json
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\bin\Debug\net10.0-windows\Baivn1.runtimeconfig.json
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\bin\Debug\net10.0-windows\Baivn1.dll
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\bin\Debug\net10.0-windows\Baivn1.pdb
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\obj\Debug\net10.0-windows\Baivn1.GeneratedMSBuildEditorConfig.editorconfig
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\obj\Debug\net10.0-windows\Baivn1.AssemblyInfoInputs.cache
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\obj\Debug\net10.0-windows\Baivn1.AssemblyInfo.cs
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\obj\Debug\net10.0-windows\Baivn1.csproj.CoreCompileInputs.cache
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\obj\Debug\net10.0-windows\Baivn1.sourcelink.json
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\obj\Debug\net10.0-windows\Baivn1.dll
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\obj\Debug\net10.0-windows\refint\Baivn1.dll
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\obj\Debug\net10.0-windows\Baivn1.pdb
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\obj\Debug\net10.0-windows\Baivn1.genruntimeconfig.cache
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapVeNha\obj\Debug\net10.0-windows\ref\Baivn1.dll

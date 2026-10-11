@@ -1,0 +1,15 @@
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\obj\Debug\net10.0-windows\Baitaptrenlop.GeneratedMSBuildEditorConfig.editorconfig
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\obj\Debug\net10.0-windows\Baitaptrenlop.AssemblyInfoInputs.cache
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\obj\Debug\net10.0-windows\Baitaptrenlop.AssemblyInfo.cs
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\obj\Debug\net10.0-windows\Baitaptrenlop.csproj.CoreCompileInputs.cache
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\obj\Debug\net10.0-windows\Baitaptrenlop.sourcelink.json
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\bin\Debug\net10.0-windows\Baitaptrenlop.exe
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\bin\Debug\net10.0-windows\Baitaptrenlop.deps.json
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\bin\Debug\net10.0-windows\Baitaptrenlop.runtimeconfig.json
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\bin\Debug\net10.0-windows\Baitaptrenlop.dll
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\bin\Debug\net10.0-windows\Baitaptrenlop.pdb
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\obj\Debug\net10.0-windows\Baitaptrenlop.dll
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\obj\Debug\net10.0-windows\refint\Baitaptrenlop.dll
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\obj\Debug\net10.0-windows\Baitaptrenlop.pdb
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\obj\Debug\net10.0-windows\Baitaptrenlop.genruntimeconfig.cache
+F:\BaiTapNgonNguLapTrinhC#\Lab04\Thuc_Hanh_04c\BaiTapTrenLop\Bai1\obj\Debug\net10.0-windows\ref\Baitaptrenlop.dll
