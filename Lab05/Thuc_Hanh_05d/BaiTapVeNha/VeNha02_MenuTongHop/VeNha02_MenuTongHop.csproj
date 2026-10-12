@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+  <ProjectReference Include="..\..\..\Thuc_Hanh_05c\BaiTapTrenLop\Bai01_UocSo\Bai01_UocSo.csproj" />
+  <ProjectReference Include="..\..\..\Thuc_Hanh_05c\BaiTapTrenLop\Bai02_QuanLySinhVien\Bai02_QuanLySinhVien.csproj" />
+  <ProjectReference Include="..\..\..\Thuc_Hanh_05c\BaiTapNangCao\NangCao01_XuLyChuoi\NangCao01_XuLyChuoi.csproj" />
+  <ProjectReference Include="..\..\..\Thuc_Hanh_05c\BaiTapVeNha\VeNha01_TuDien\VeNha01_TuDien.csproj" />
+  <ProjectReference Include="..\..\..\Thuc_Hanh_05c\BaiTapVeNha\VeNha02_ListBoxSo\VeNha02_ListBoxSo.csproj" />
+  <ProjectReference Include="..\..\..\Thuc_Hanh_05c\BaiTapVeNha\VeNha03_DanhBa\VeNha03_DanhBa.csproj" />
+  <ProjectReference Include="..\..\BaiTapTrenLop\Bai01_ListViewSinhVien\Bai01_ListViewSinhVien.csproj" />
+  <ProjectReference Include="..\..\BaiTapTrenLop\Bai02_TaiKhoanNganHang\Bai02_TaiKhoanNganHang.csproj" />
+  <ProjectReference Include="..\..\BaiTapNangCao\NangCao01_QuanLyHocVien\NangCao01_QuanLyHocVien.csproj" />
+  <ProjectReference Include="..\VeNha01_DemNguoc\VeNha01_DemNguoc.csproj" />
+</ItemGroup>
+</Project>
