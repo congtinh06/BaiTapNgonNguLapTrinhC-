@@ -16,6 +16,7 @@ Repository lưu trữ các bài thực hành (Lab) của môn **Ngôn ngữ lậ
 | Lab02 | Lập trình hướng đối tượng trong C# | Hoàn thành |
 | Lab03 | LINQ cơ bản (cá nhân) | Hoàn thành |
 | Lab04 | Lập trình WinForm cơ bản | Hoàn thành |
+| Lab05 | Lập trình WinForm nâng cao | Hoàn thành |
 
 ## Cách chạy
 
